@@ -66,3 +66,11 @@ Puedes cambiar los locutores accediendo al catálogo completo en https://tts.tra
 VOZ_PREGUNTA  
 VOZ_RESPUESTA
 ```
+## ⏱️ Control de Pausas
+El motor de Microsoft Edge es altamente sensible a la puntuación. Puedes controlar el ritmo y los silencios del audio directamente desde tu archivo `.txt` usando los siguientes trucos:
+
+1.  **Pausa corta (Breve):** Usa una coma ( `,` ). Ideal para separar opciones.
+2.  **Pausa media (Estándar):** Usa un punto ( `.` ). Útil al final de una frase.
+3.  **Pausa larga (Énfasis):** Usa tres puntos o más ( `...` ). Perfecto para dejar tiempo de reflexión tras una pregunta antes de escuchar la respuesta.
+
+> **Tip:** Si necesitas un silencio aún mayor, puedes añadir una línea en blanco que contenga solo puntos suspensivos entre el bloque de la pregunta y la respuesta.
