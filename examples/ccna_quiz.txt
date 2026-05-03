@@ -1,0 +1,23 @@
+Pregunta 1. ¿Qué protocolo se utiliza para resolver nombres de dominio a direcciones IP?
+A... DHCP.
+B... DNS.
+C... A,R,P.
+La respuesta correcta es la B... DNS.
+
+Pregunta 2. ¿Qué dirección IPv4 pertenece a un rango privado?.
+A... 8.8.8.8.
+B... 172.16.10.5.
+C... 200.10.10.1.
+La respuesta correcta es la B... 172.16.10.5.
+
+Pregunta 3. ¿Qué comando muestra la tabla de rutas en un router Cisco?.
+A... show. ip. route.
+B... show. vlan. brief.
+C... show. interfaces. trunk.
+La respuesta correcta es la A. show. ip. route.
+
+Pregunta 4. ¿Qué capa del modelo osi... usa direcciones MAC?.
+A... Capa 1.
+B... Capa 2.
+C... Capa 3.
+La respuesta correcta es la B... Capa 2.
